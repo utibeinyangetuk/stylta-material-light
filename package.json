@@ -1,0 +1,21 @@
+{
+  "name": "stylta-material-light",
+  "displayName": "stylta material light",
+  "description": "stylta material light",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.72.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "stylta material light",
+        "uiTheme": "vs",
+        "path": "./themes/stylta material light-color-theme.json"
+      }
+    ]
+  }
+}
