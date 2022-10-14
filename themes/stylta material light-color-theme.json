@@ -1,7 +1,8 @@
 {
 	"name": "stylta material light",
 	"colors": {
-
+		// Overall colors
+		"focusBorder": "#d3d3d33f",
 		// Editor
 		"editor.background": "#eeeee2",
 		"editor.foreground": "#000000",
@@ -17,14 +18,12 @@
 		"editorSuggestWidget.focusHighlightForeground": "#fff",
 		"editorHoverWidget.border": "#000",
 		"editorHoverWidget.background": "#eeeee2",
-
 		// sidebar
 		"sideBar.background": "#eeeee2",
-		"sideBar.border": "#d3d3d35c",
+		"sideBar.border": "#d3d3d33f",
 		"sideBar.foreground": "#000",
 		"sideBarSectionHeader.background": "#eeeee2",
 		"sideBarSectionHeader.border": "#cecece5d",
-
 		// menu
 		"menu.background": "#eeeee2",
 		"menu.border": "#00000043",
@@ -32,34 +31,88 @@
 		"menu.selectionForeground": "#6182B8",
 		"menu.selectionBorder": "#0000006f",
 		"menu.separatorBackground": "#cececec6",
+		// activity bar
+		"activityBar.background": "#eeeee2",
+		"activityBar.foreground": "#787878",
+		"activityBar.activeBackground": "#d3d3d33f",
+		"activityBarBadge.background": "#424242",
+		"activityBarBadge.foreground": "#ffffff",
+		// list
+		"list.hoverBackground": "#d3d3d33f",
+		"list.inactiveSelectionBackground": "#d1d1c800",
+		"list.activeSelectionBackground": "#d3d3d33f",
+		"list.activeSelectionForeground": "#000000",
+		"listFilterWidget.background": "#eeeee2",
+		"list.filterMatchBorder": "#000",
+		"list.inactiveFocusOutline": "#000",
+		"list.dropBackground": "#d3d3d33f",
+		// title bar
+		"titleBar.activeBackground": "#eeeee2",
+		"titleBar.inactiveBackground": "#eeeee2",
 
-		// statusbar
+		// editor groups and tabs
+		"editorGroup.border": "#827a7a3f",
+		"editorGroupHeader.tabsBackground": "#eeeee2",
+		"editorGroup.dropBackground": "#eeeee2",
+		"editorGroupHeader.tabsBorder": "#bfbdbd22",
+		"editorGroup.emptyBackground": "#eeeee2",
+		"tab.activeBackground": "#eeeee2",
+		"tab.inactiveBackground": "#eeeee2",
+		"tab.border": "#bfbdbd18",
+		"tab.activeBorder": "#62c208",
+		"tab.unfocusedActiveBorder": "#ff0000",
+		"tab.hoverBorder": "#000",
+
+// Git
+"gitDecoration.modifiedResourceForeground": "#964b00",
+"gitDecoration.untrackedResourceForeground": "#57ac08",
+"gitDecoration.deletedResourceForeground": "#ff0000",
+
+// statusbar
+"statusBar.background": "#eeeee2",
+"statusBar.foreground": "#787878",
+"statusBar.border": "#bfbdbd22",
+"statusBarItem.hoverBackground": "#cecece93",
+	"statusBarItem.remoteBackground": "#16825D",
+	"statusBarItem.remoteForeground": "#FFF","statusBar.noFolderBackground": "#eeeee2",
+
+
+// Notifications
+"notificationCenter.border": "#00000084",
+"notificationCenterHeader.foreground": "#000",
+"notifications.background": "#eeeee2",
+"notificationToast.border": "#00000084",
+
+
+// dropdown
+"dropdown.background": "#eeeee2",
+"dropdown.border": "#00000084",
+
+// input control
+"input.background": "#cecece31",
+"input.border": "#00000084",
+
+// peekview
+"peekView.border": "#000",
+"peekViewEditor.background": "#fff",
+"peekViewTitle.background": "#fff",
+"peekViewResult.background": "#fff",
+
+
+// panel
+"panel.border": "#bfbdbd45",
+
+// button
+"button.background": "#00000084"
 
 
 
-
-		// 	"list.hoverBackground": "#ccccce6a",
+		//////////////////////////////////////////////////////
+		// "list.focusBackground": "#e8e8e8",
 		// 	"input.placeholderForeground": "#767676",
 		// 	"searchEditor.textInputBorder": "#CECECE",
 		// 	"settings.textInputBorder": "#CECECE",
 		// 	"settings.numberInputBorder": "#CECECE",
-		// 	"statusBarItem.remoteForeground": "#FFF",
-		// 	"statusBarItem.remoteBackground": "#16825D",
-		// 	"titleBar.activeBackground": "#eeeee2",
-		// 	"titleBar.inactiveBackground": "#eeeee2",
-		// 	"statusBar.background": "#eeeee2",
-		// 	"statusBar.foreground": "#000000",
-		// 	"activityBar.background": "#eeeee2",
-		// 	"activityBar.foreground": "#000000",
-		// 	"sideBarSectionHeader.background": "#eeeee2",
-		// 	"sideBarSectionHeader.border": "#cecece5d",
-		// 	"list.inactiveSelectionBackground": "#ccccce6a",
-		// 	"sideBar.background": "#eeeee2",
-		// 	"sideBar.border": "#00000006",
-		// 	"editorGroupHeader.tabsBackground": "#eeeee2",
-		// 	"tab.inactiveBackground": "#eeeee2",
-		// 	"tab.activeBorderTop": "#000",
-		// 	"tab.border": "#cfcccc44",
 		// 	"terminal.tab.activeBorder": "#000",
 		// 	"terminal.border": "#cfcccc5d",
 		// 	"tab.hoverBackground": "#cfcccc42",
@@ -69,10 +122,6 @@
 		// 	"menu.background": "#eeeee2",
 		// 	"panel.border": "#eeeee2",
 		// 	"focusBorder": "#bbbbbb",
-		// 	"activityBarBadge.background": "#424242",
-		// 	"activityBarBadge.foreground": "#ffffff",
-		// 	"list.activeSelectionBackground": "#bbbbbb",
-		// 	"list.activeSelectionForeground": "#000000",
 		// 	"button.background": "#bbbbbb",
 		// 	"settings.modifiedItemIndicator": "#bbbbbb",
 		// 	"editorGutter.modifiedBackground": "#bbbbbb",
@@ -82,7 +131,7 @@
 		// 	"editor.rangeHighlightBackground": "#bbbbbb",
 		// 	"widget.shadow": "#eeeee2",
 		// 	"menu.border": "#bbbbbb",
-		// 	"list.focusBackground": "#e8e8e8",
+		//
 		// 	"peekViewEditorGutter.background": "#eeeee2",
 		// 	"peekViewEditor.background": "#eeeee2",
 		// 	"peekViewResult.background": "#eeeee2",
