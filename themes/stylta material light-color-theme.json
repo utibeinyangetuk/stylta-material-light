@@ -18,7 +18,7 @@
 		"editorHoverWidget.border": "#000",
 		"editorHoverWidget.background": "#eeeee2",
 		"editor.findMatchHighlightBackground": "#ffffff",
-		"editor.findMatchHighlightBorder": "#cb0202",
+		"editor.findMatchHighlightBorder": "#960404",
 		// sidebar/////////////////////////////////////////////////
 		"sideBar.background": "#eeeee2",
 		"sideBar.border": "#d3d3d33f",
@@ -44,7 +44,7 @@
 		"list.activeSelectionBackground": "#d3d3d33f",
 		"list.activeSelectionForeground": "#000000",
 		"listFilterWidget.background": "#eeeee2",
-		"list.filterMatchBorder": "#000",
+		"list.filterMatchBorder": "#00000000",
 		"list.inactiveFocusOutline": "#000",
 		"list.dropBackground": "#d3d3d33f",
 		// title bar///////////////////////////////////////////////
@@ -103,7 +103,14 @@
 		"editorLightBulb.foreground": "#000000",
 		// line number//////////////////////////////////////////////
 		"editorLineNumber.foreground": "#41414193",
-		"editorLineNumber.activeForeground": "#ff0000",
+		"editorLineNumber.activeForeground": "#cc0404",
+		// quick picker[command palette, dropdown list and the likes]////////////
+		"quickInput.background": "#eeeee2",
+		"quickInputList.focusBackground": "#918f8f2f",
+		//settings
+		"settings.focusedRowBorder": "#00000023",
+		// codeLens
+		"editorCodeLens.foreground": "#00000095",
 		//////////////////////////////////////////////////////
 		// "list.focusBackground": "#e8e8e8",
 		// 	"input.placeholderForeground": "#767676",
