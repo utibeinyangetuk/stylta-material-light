@@ -19,6 +19,7 @@
 		"editorHoverWidget.background": "#eeeee2",
 		"editor.findMatchHighlightBackground": "#ffffff",
 		"editor.findMatchHighlightBorder": "#960404",
+		"editor.wordHighlightBackground": "#add6ff65",
 		// sidebar/////////////////////////////////////////////////
 		"sideBar.background": "#eeeee2",
 		"sideBar.border": "#d3d3d33f",
@@ -111,14 +112,6 @@
 		"settings.focusedRowBorder": "#00000023",
 		// codeLens//////////////////////////////////////////
 		"editorCodeLens.foreground": "#00000095",
-		// 	"terminal.ansiBrightWhite": "#FFFFFF",
-		// 	"terminal.ansiBrightBlack": "#90A4AE",
-		// 	"terminal.ansiBrightBlue": "#6182B8",
-		// 	"terminal.ansiBrightCyan": "#39ADB5",
-		// 	"terminal.ansiBrightGreen": "#91B859",
-		// 	"terminal.ansiBrightMagenta": "#7C4DFF",
-		// 	"terminal.ansiBrightRed": "#E53935",
-		// 	"terminal.ansiBrightYellow": "#FFB62C"
 	},
 	"tokenColors": [
 		{
@@ -529,7 +522,7 @@
 				"entity.name.operator"
 			],
 			"settings": {
-				"foreground": "#6bb00b"
+				"foreground": "#62a405"
 			}
 		},
 		{
@@ -638,7 +631,7 @@
 			"name": "property",
 			"scope": "string.unquoted",
 			"settings": {
-				"foreground": "#cd8b12",
+				"foreground": "#8b5e0b",
 			}
 		},
 		{
