@@ -1,21 +1,39 @@
 {
-  "name": "stylta-material-light",
-  "displayName": "stylta material light",
-  "description": "stylta material light",
-  "version": "0.0.1",
-  "engines": {
-    "vscode": "^1.72.0"
-  },
-  "categories": [
-    "Themes"
-  ],
-  "contributes": {
-    "themes": [
-      {
-        "label": "stylta material light",
-        "uiTheme": "vs",
-        "path": "./themes/stylta material light-color-theme.json"
-      }
-    ]
-  }
+	"name": "stylta-material-light",
+	"displayName": "stylta material light",
+	"description": "stylta material light",
+	"version": "0.0.1",
+	"publisher": "utibeinyangetuk",
+	"engines": {
+		"vscode": "^0.10.5"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/utibeinyangetuk/stylta-material-light"
+	},
+	"keywords": [
+		"theme",
+		"light theme",
+		"flat theme",
+		"material theme",
+		"material",
+		"flat",
+		"light",
+		"light theme",
+		"stylta material light",
+		"stylta",
+		"material"
+	],
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "stylta material light",
+				"uiTheme": "vs",
+				"path": "./themes/stylta material light-color-theme.json"
+			}
+		]
+	}
 }
