@@ -71,10 +71,13 @@
 		"statusBar.background": "#eeeee2",
 		"statusBar.foreground": "#787878",
 		"statusBar.border": "#bfbdbd22",
-		"statusBarItem.hoverBackground": "#cecece93",
+		"statusBarItem.hoverBackground": "#cecece63",
+		"statusBar.debuggingBorder": "#000000",
 		"statusBarItem.remoteBackground": "#16825D",
 		"statusBarItem.remoteForeground": "#FFF",
 		"statusBar.noFolderBackground": "#eeeee2",
+		"statusBar.debuggingBackground": "#e59b07b4",
+		"statusBar.debuggingForeground": "#000000",
 		// Notifications/////////////////////////////////////////////
 		"notificationCenter.border": "#00000084",
 		"notificationCenterHeader.foreground": "#000",
@@ -112,6 +115,9 @@
 		"settings.focusedRowBorder": "#00000023",
 		// codeLens//////////////////////////////////////////
 		"editorCodeLens.foreground": "#00000095",
+		// debug terminal
+		"debugToolBar.background": "#eeeee2",
+		"debugToolBar.border": "#00000023",
 	},
 	"tokenColors": [
 		{
