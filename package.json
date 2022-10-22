@@ -2,7 +2,7 @@
 	"name": "stylta-material-light",
 	"displayName": "stylta material light",
 	"description": "stylta material light",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"publisher": "utibeinyangetuk",
 	"engines": {
 		"vscode": "^0.10.5"
