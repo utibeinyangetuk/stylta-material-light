@@ -6,18 +6,18 @@
 		// Editor/////////////////////////////////////////////////
 		"editor.background": "#eeeee2",
 		"editor.foreground": "#000000",
-		"editor.inactiveSelectionBackground": "#E5EBF1",
+		"editor.inactiveSelectionBackground": "#e5ebf190",
 		"editor.foldBackground": "#cecece60",
-		"editorIndentGuide.background": "#D3D3D3",
-		"editorIndentGuide.activeBackground": "#000",
-		"editor.selectionHighlightBackground": "#add6ff65",
+		"editorIndentGuide.background1": "#D3D3D3",
+		"editorIndentGuide.activeBackground1": "#000",
+		"editor.selectionHighlightBackground": "#19212965",
 		"editor.findMatchBackground": "#6182b849",
 		"editor.hoverHighlightBackground": "#ffffff85",
 		"editor.selectionBackground": "#ffffff85",
 		"editorSuggestWidget.background": "#eeeee2",
 		"editorHoverWidget.border": "#000",
 		"editorHoverWidget.background": "#eeeee2",
-		"editor.findMatchHighlightBackground": "#ffffff",
+		"editor.findMatchHighlightBackground": "#ffffffb5",
 		"editor.findMatchHighlightBorder": "#960404",
 		"editor.wordHighlightBackground": "#add6ff65",
 		// sidebar/////////////////////////////////////////////////
@@ -117,14 +117,11 @@
 		"editorCodeLens.foreground": "#00000095",
 		// debug terminal
 		"debugToolBar.background": "#eeeee2",
-		"debugToolBar.border": "#00000023",
+		"debugToolBar.border": "#00000023"
 	},
 	"tokenColors": [
 		{
-			"scope": [
-				"meta.embedded",
-				"source.groovy.embedded"
-			],
+			"scope": ["meta.embedded", "source.groovy.embedded"],
 			"settings": {
 				"foreground": "#000000ff"
 			}
@@ -227,10 +224,7 @@
 			}
 		},
 		{
-			"scope": [
-				"meta.preprocessor",
-				"entity.name.function.preprocessor"
-			],
+			"scope": ["meta.preprocessor", "entity.name.function.preprocessor"],
 			"settings": {
 				"foreground": "#0000ff"
 			}
@@ -267,20 +261,13 @@
 			}
 		},
 		{
-			"scope": [
-				"storage.modifier",
-				"keyword.operator.noexcept"
-			],
+			"scope": ["storage.modifier", "keyword.operator.noexcept"],
 			"settings": {
 				"foreground": "#0000ff"
 			}
 		},
 		{
-			"scope": [
-				"string",
-				"entity.name.operator.custom-literal.string",
-				"meta.embedded.assembly"
-			],
+			"scope": ["string", "entity.name.operator.custom-literal.string", "meta.embedded.assembly"],
 			"settings": {
 				"foreground": "#810505"
 			}
@@ -326,9 +313,7 @@
 		},
 		{
 			"name": "Reset JavaScript string interpolation expression",
-			"scope": [
-				"meta.template.expression"
-			],
+			"scope": ["meta.template.expression"],
 			"settings": {
 				"foreground": "#000000"
 			}
@@ -361,9 +346,7 @@
 			}
 		},
 		{
-			"scope": [
-				"support.type.property-name.json"
-			],
+			"scope": ["support.type.property-name.json"],
 			"settings": {
 				"foreground": "#0451a5"
 			}
@@ -411,10 +394,7 @@
 			}
 		},
 		{
-			"scope": [
-				"punctuation.section.embedded.begin.php",
-				"punctuation.section.embedded.end.php"
-			],
+			"scope": ["punctuation.section.embedded.begin.php", "punctuation.section.embedded.end.php"],
 			"settings": {
 				"foreground": "#800000"
 			}
@@ -433,11 +413,7 @@
 		},
 		{
 			"name": "coloring of the Java import and package identifiers",
-			"scope": [
-				"storage.modifier.import.java",
-				"variable.language.wildcard.java",
-				"storage.modifier.package.java"
-			],
+			"scope": ["storage.modifier.import.java", "variable.language.wildcard.java", "storage.modifier.package.java"],
 			"settings": {
 				"foreground": "#000000"
 			}
@@ -535,26 +511,19 @@
 			"name": "parameters",
 			"scope": "variable.parameter",
 			"settings": {
-				"foreground": "#ca0202",
+				"foreground": "#ca0202"
 			}
 		},
 		{
 			"name": "Variable and parameter name",
-			"scope": [
-				"variable",
-				"meta.definition.variable.name",
-				"support.variable",
-				"entity.name.variable"
-			],
+			"scope": ["variable", "meta.definition.variable.name", "support.variable", "entity.name.variable"],
 			"settings": {
 				// "foreground": "#917436"
 			}
 		},
 		{
 			"name": "Object keys, TS grammar specific",
-			"scope": [
-				"meta.object-literal.key"
-			],
+			"scope": ["meta.object-literal.key"],
 			"settings": {
 				"foreground": "#001080"
 			}
@@ -607,10 +576,7 @@
 			}
 		},
 		{
-			"scope": [
-				"keyword.operator.or.regexp",
-				"keyword.control.anchor.regexp"
-			],
+			"scope": ["keyword.operator.or.regexp", "keyword.control.anchor.regexp"],
 			"settings": {
 				"foreground": "#ff0000"
 			}
@@ -637,7 +603,7 @@
 			"name": "property",
 			"scope": "string.unquoted",
 			"settings": {
-				"foreground": "#8b5e0b",
+				"foreground": "#8b5e0b"
 			}
 		},
 		{
