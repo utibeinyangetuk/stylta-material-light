@@ -1,9 +1,9 @@
 {
 	"name": "stylta material light",
 	"colors": {
-		// Default setting///////////////////////////////////////
+		// Default setting
 		"focusBorder": "#d3d3d33f",
-		// Editor/////////////////////////////////////////////////
+		// Editor
 		"editor.background": "#eeeee2",
 		"editor.foreground": "#000000",
 		"editor.inactiveSelectionBackground": "#e5ebf190",
@@ -20,28 +20,29 @@
 		"editor.findMatchHighlightBackground": "#ffffffb5",
 		"editor.findMatchHighlightBorder": "#960404",
 		"editor.wordHighlightBackground": "#add6ff65",
-		// sidebar/////////////////////////////////////////////////
+		// sidebar
 		"sideBar.background": "#eeeee2",
-		"sideBar.border": "#d3d3d33f",
-		"sideBar.foreground": "#000",
+		"sideBar.border": "#4545453f",
+		"sideBar.foreground": "#6b6b6b8c",
 		"sideBarSectionHeader.background": "#eeeee2",
-		"sideBarSectionHeader.border": "#cecece5d",
+		"sideBarSectionHeader.border": "#9b9a9a5d",
+		"sideBarSectionHeader.foreground": "#00000096",
 		// menu///////////////////////////////////////////////////
 		"menu.background": "#eeeee2",
 		"menu.border": "#00000043",
 		"menu.selectionBackground": "#cecece00",
-		"menu.selectionForeground": "#6182B8",
+		"menu.foreground": "#838383",
 		"menu.selectionBorder": "#0000006f",
 		"menu.separatorBackground": "#cececec6",
 		// activity bar////////////////////////////////////////////
 		"activityBar.background": "#eeeee2",
-		"activityBar.foreground": "#787878",
+		"activityBar.foreground": "#000000",
 		"activityBar.activeBackground": "#d3d3d33f",
 		"activityBarBadge.background": "#424242",
 		"activityBarBadge.foreground": "#ffffff",
 		// list/////////////////////////////////////////////////////
-		"list.hoverBackground": "#d3d3d33f",
-		"list.inactiveSelectionBackground": "#d1d1c800",
+		"list.hoverBackground": "#d3d3d39c",
+		"list.inactiveSelectionBackground": "#d1d1c87c",
 		"list.activeSelectionBackground": "#d3d3d33f",
 		"list.activeSelectionForeground": "#000000",
 		"listFilterWidget.background": "#eeeee2",
@@ -96,24 +97,24 @@
 		"peekViewResult.background": "#ffffff",
 		// panel///////////////////////////////////////////////////////////
 		"panel.border": "#bfbdbd45",
-		// button/////////////////////////////////////////////////////////////
+		// button
 		"button.background": "#3e918a",
 		"button.border": "#00000079",
-		// breadcrumbs/////////////////////////////////////////////////////
+		// breadcrumbs
 		"breadcrumbPicker.background": "#eeeee2",
-		"breadcrumb.focusForeground": "#6cb9b2",
-		"breadcrumb.activeSelectionForeground": "#6cb9b2",
-		// Lightbulb//////////////////////////////////////////////////
+		"breadcrumb.focusForeground": "#ffffff",
+		"breadcrumb.activeSelectionForeground": "#ffffff",
+		// Lightbulb
 		"editorLightBulb.foreground": "#000000",
-		// line number//////////////////////////////////////////////
+		// line number
 		"editorLineNumber.foreground": "#41414193",
-		"editorLineNumber.activeForeground": "#cc0404",
-		// quick picker[command palette, dropdown list and the likes]////////////
+		"editorLineNumber.activeForeground": "#ff0000",
+		// quick picker[command palette, dropdown list and the likes]
 		"quickInput.background": "#eeeee2",
 		"quickInputList.focusBackground": "#918f8f2f",
-		//settings//////////////////////////////////////////
+		//settings
 		"settings.focusedRowBorder": "#00000023",
-		// codeLens//////////////////////////////////////////
+		// codeLens
 		"editorCodeLens.foreground": "#00000095",
 		// debug terminal
 		"debugToolBar.background": "#eeeee2",
