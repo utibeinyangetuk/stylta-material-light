@@ -1,7 +1,7 @@
 {
 	"name": "stylta material light",
 	"colors": {
-		// Default setting
+		//Base colors
 		"focusBorder": "#d3d3d33f",
 		// Editor
 		"editor.background": "#eeeee2",
