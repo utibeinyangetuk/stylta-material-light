@@ -2,7 +2,7 @@
 	"name": "stylta-material-light",
 	"displayName": "stylta material light",
 	"description": "stylta material light",
-	"version": "0.0.2",
+	"version": "0.0.3",
 	"publisher": "utibeinyangetuk",
 	"engines": {
 		"vscode": "^0.10.5"
@@ -16,11 +16,15 @@
 		"light theme",
 		"flat theme",
 		"material theme",
+		"material light",
 		"material",
 		"flat",
 		"light",
+		"warm",
 		"light theme",
 		"stylta material light",
+		"dark theme",
+		"night theme",
 		"stylta",
 		"material"
 	],
