@@ -1,7 +1,7 @@
 {
 	"name": "stylta-material-light",
 	"displayName": "stylta material light",
-	"description": "stylta material light",
+	"description": "A light/warm theme for your eyes.",
 	"version": "0.0.3",
 	"publisher": "utibeinyangetuk",
 	"engines": {
@@ -14,6 +14,9 @@
 	"keywords": [
 		"theme",
 		"light theme",
+    "dark theme",
+    "brown theme",
+    "minimalist",
 		"flat theme",
 		"material theme",
 		"material light",
