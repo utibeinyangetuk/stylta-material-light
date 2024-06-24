@@ -177,10 +177,10 @@
 		// panel
 		"panel.border": "#00000000",
 		// button
-		"button.background": "#f2e5bc",
+		"button.background": "#d5c4a1c6",
 		"button.foreground": "#000000",
 		"button.border": "#000000",
-		"button.hoverBackground": "#d5c4a1c6",
+		"button.hoverBackground": "#e8b6378e",
 		// breadcrumbs
 		"breadcrumbPicker.background": "#f2e5bc",
 		"breadcrumb.foreground": "#3c3836b7",
