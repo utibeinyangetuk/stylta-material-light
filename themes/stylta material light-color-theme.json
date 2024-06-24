@@ -309,7 +309,7 @@
 				"entity.other.attribute-name.scss"
 			],
 			"settings": {
-				"foreground": "#b57614",
+				"foreground": "#b57614"
 			}
 		},
 		{
@@ -439,7 +439,7 @@
 		{
 			"scope": ["support.type.property-name.json"],
 			"settings": {
-				"foreground": "#0451a5"
+				"foreground": "#a56504"
 			}
 		},
 		{
@@ -449,16 +449,9 @@
 			}
 		},
 		{
-			"scope": "keyword.control",
-			"settings": {
-				"foreground": "#0000ff"
-			}
-		},
-		{
 			"scope": "keyword.operator",
 			"settings": {
-				"foreground": "#000000",
-				"fontStyle": "bold"
+				"foreground": "#000000"
 			}
 		},
 		{
@@ -520,7 +513,7 @@
 			"name": "Function declarations",
 			"scope": ["entity.name.function", "support.function", "support.constant.handlebars", "source.powershell variable.other.member", "entity.name.operator.custom-literal"],
 			"settings": {
-				"foreground": "#b254da"
+				"foreground": "#1c97da"
 			}
 		},
 		{
@@ -582,14 +575,15 @@
 			"name": "parameters",
 			"scope": "variable.parameter",
 			"settings": {
-				"foreground": "#ca0202"
+				"foreground": "#f44747"
 			}
 		},
 		{
 			"name": "Variable and parameter name",
 			"scope": ["variable", "meta.definition.variable.name", "support.variable", "entity.name.variable"],
 			"settings": {
-				// "foreground": "#917436"
+				"foreground": "#cd9731",
+				"fontStyle": ""
 			}
 		},
 		{
@@ -702,5 +696,5 @@
 				"foreground": "#1E1E1E"
 			}
 		}
-	],
+	]
 }
