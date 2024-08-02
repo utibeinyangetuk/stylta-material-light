@@ -1,9 +1,3 @@
-# Change Log
+## Change Log
 
-All notable changes to the "stylta-material-light" extension will be documented in this file.
-
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
-
-## [Unreleased]
-
-- Initial release
+-   All noteable changes are in the README file for the meantime.
