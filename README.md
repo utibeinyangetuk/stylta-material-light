@@ -1,12 +1,21 @@
-# README
-<html>
-<h2> 2nd August, 2024.</h2>
-<h3>Updated Changes</h3>
+### Update Log - [21-08-2024]
+
 <ul>
-<li>Updated syntax highlighting for html, css, Ts, Js.</li>
-<li>Updated buttons, badges, links and notifications background color.</li>
-<li>updated peekview and breakcrumbs background color.</li>
-<li>Fixed git untracked foreground color</li>
-<li>Fixed hover background not being consistent</li>
+<li>Updated foreground color for active tabs</li>
+<li>Fixed variable syntax color not being visible once highlighted</li>
+<li>Updated background color for peekview result column</li>
+<li>Fixed widget shadows</li>
+<li>Updated list highlight color</li>
+<li>Fixed weird indent border color</li>
+<li>Updated foreground color for links</li>
+<li>Updated debugging background color</li>
+<li>Updated overall foreground color</li>
+<li>Updated badge background color</li>
+<li>Added border for sidebar and panel</li>
+<li>Fixed breadcrumbs background color</li>
+
 </ul>
-</html>
+
+##
+
+-   Pull requests are very much welcome, incase there are other things i might have missed😗❤️.
