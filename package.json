@@ -2,7 +2,7 @@
 	"name": "stylta-material-light",
 	"displayName": "stylta material light",
 	"description": "A light theme that really gives you that material feel.",
-	"version": "0.2.2",
+	"version": "0.3.0",
 	"publisher": "utibeinyangetuk",
 	"engines": {
 		"vscode": "^0.10.5"
