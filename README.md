@@ -1,1 +1,1 @@
-All changes are in the changelog file. Pull requests are very much welcome.
+All noteable changes are in the changelog file.

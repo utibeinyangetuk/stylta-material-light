@@ -1,4 +1,4 @@
-## Changelog [ 3-11-2024 ]
+## Changelog [ 13 November, 2024 ]
 
 <ul>
 <li>overall background color change</li>
