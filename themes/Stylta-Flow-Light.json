@@ -242,7 +242,7 @@
     "listFilterWidget.noMatchesOutline": "#DC2626",
     "list.invalidItemForeground": "#9CA3AF",
     "list.warningForeground": "#D97706",
-    "editorGroup.border": "#00000000",
+    "editorGroup.border": "#E5E7EB",
     "editorGroup.dropBackground": "#DBEAFE",
     "editorGroupHeader.tabsBorder": "#E5E7EB",
     "badge.background": "#2563EB",

@@ -404,7 +404,7 @@ const LightTheme: VscodeTheme = {
 		'list.warningForeground': '#D97706',
 
 		//EditorGroup
-		'editorGroup.border': colors.transparent,
+		'editorGroup.border': colors.border.sec,
 		'editorGroup.dropBackground': colors.dropBackground,
 		'editorGroupHeader.tabsBorder': colors.border.sec,
 
